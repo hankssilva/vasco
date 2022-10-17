@@ -1,0 +1,123 @@
+html{
+    display: flex;
+    background-color: gray;
+}
+body{
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: white;
+}
+p{
+    text-align: justify;
+    padding: 0 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+
+}
+img{
+    padding: 0px 0;
+}
+a{
+    padding: 0 40px;
+    color: red;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+.vava{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    padding-left: 30px;
+    font-size: 25px;
+    color: blue;
+    font-style: oblique;
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+span{
+    color: red;
+}
+footer{
+    background-color: gray;
+}
+.rodape{
+    color: black;
+    padding: 50px;
+    text-align: center;
+}
+.logo{
+    width: 200px;
+}
+.lobo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left: 30px;
+    color: red;
+    margin: 0 auto;
+}
+h3{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding-top: 0;
+    border: 0;
+    margin: 0 auto;
+}
+label{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: black;
+    margin: 0 auto;
+    border: 0;
+    padding-top: 0;
+    font-size: large;
+}
+.CV{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0 40px;
+    font-size: 20px;
+    color: white;
+}
+button{
+    background-color: red;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    border: 3px solid blue;
+    padding-top: 0;
+    font-size: large;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+textarea{
+    font-family: Arial, Helvetica, sans-serif;
+}
+text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+div{
+    padding: 10px 0;
+}
+.divai{
+    display: inline-flex;
+    
+}
+.CURSOS{
+    text-align: left;
+}
+.zzz{
+    width: 150px; 
+    height:150px;
+    border-radius: 50%;
+    border: 5px solid black
+}
